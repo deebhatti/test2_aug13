@@ -11,6 +11,7 @@ namespace VSGitTry3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Tomorrow is Monday");
             Console.ReadLine();
         }
     }
