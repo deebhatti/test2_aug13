@@ -12,6 +12,7 @@ namespace VSGitTry3
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Tomorrow is Monday");
+            Console.WriteLine("One more Change");
             Console.ReadLine();
         }
     }
